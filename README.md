@@ -1,3 +1,3 @@
 # rutar-html
 
-About me
+https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/
